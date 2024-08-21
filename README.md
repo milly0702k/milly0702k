@@ -5,8 +5,4 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-milly0702k/milly0702k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xtcjJ6c3pyZzEwMnd6eHF0OW9qdXJlYW93Z2dhNHgybzN0YmZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ft05x0GhgdfdE4OKHl/giphy.gif)
